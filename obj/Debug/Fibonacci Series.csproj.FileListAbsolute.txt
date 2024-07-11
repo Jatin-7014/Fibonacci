@@ -1,0 +1,7 @@
+D:\C#\Fibonacci Series\obj\Debug\Fibonacci Series.csproj.AssemblyReference.cache
+D:\C#\Fibonacci Series\obj\Debug\Fibonacci Series.csproj.CoreCompileInputs.cache
+D:\C#\Fibonacci Series\bin\Debug\Fibonacci Series.exe.config
+D:\C#\Fibonacci Series\bin\Debug\Fibonacci Series.exe
+D:\C#\Fibonacci Series\bin\Debug\Fibonacci Series.pdb
+D:\C#\Fibonacci Series\obj\Debug\Fibonacci Series.exe
+D:\C#\Fibonacci Series\obj\Debug\Fibonacci Series.pdb
