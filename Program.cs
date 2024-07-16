@@ -10,8 +10,11 @@ namespace Fibonacci_Series
     {
         static void Main(string[] args)
         {
-            int n = 8, n1 = 0, n2 = 1, nextTerm = 0;
-            Console.Write("Fibonacci Series for 8 terms are : ");
+            Console.WriteLine("Enter the value of term:");
+            int n=Convert.ToInt32(Console.ReadLine());
+
+            int n1 = 0, n2 = 1, nextTerm = 0;
+            Console.Write($"Fibonacci Series for {n} terms are : ");
 
             for (int i = 1; i <= n; i++)
             {
